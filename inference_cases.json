@@ -1,0 +1,67 @@
+{
+    "inference": [
+        {
+            "image": [
+                "imagesTr/10087_0001_0000.mha"
+            ],
+            "label": "labelsTr/10087_0001.mha",
+            "case_id": "10087_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10017_0001_0000.mha"
+            ],
+            "label": "labelsTr/10017_0001.mha",
+            "case_id": "10017_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10059_0001_0000.mha"
+            ],
+            "label": "labelsTr/10059_0001.mha",
+            "case_id": "10059_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10001_0001_0000.mha"
+            ],
+            "label": "labelsTr/10001_0001.mha",
+            "case_id": "10001_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10092_0001_0000.mha"
+            ],
+            "label": "labelsTr/10092_0001.mha",
+            "case_id": "10092_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10085_0001_0000.mha"
+            ],
+            "label": "labelsTr/10085_0001.mha",
+            "case_id": "10085_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10025_0001_0000.mha"
+            ],
+            "label": "labelsTr/10025_0001.mha",
+            "case_id": "10025_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10038_0001_0000.mha"
+            ],
+            "label": "labelsTr/10038_0001.mha",
+            "case_id": "10038_0001"
+        },
+        {
+            "image": [
+                "imagesTr/10057_0001_0000.mha"
+            ],
+            "label": "labelsTr/10057_0001.mha",
+            "case_id": "10057_0001"
+        }
+    ]
+}

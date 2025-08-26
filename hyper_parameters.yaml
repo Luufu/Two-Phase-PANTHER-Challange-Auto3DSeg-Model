@@ -1,0 +1,73 @@
+_meta_: {}
+bundle_root: /home/keshav/PANTHER_Task2_Auto3DSeg/results/segresnet_0
+ckpt_path: $@bundle_root + '/model'
+mlflow_tracking_uri: $@ckpt_path + '/mlruns/'
+mlflow_experiment_name: Auto3DSeg
+data_file_base_dir: /home/keshav/PANTHER_Task2_Auto3DSeg/data_cropped
+data_list_file_path: /home/keshav/PANTHER_Task2_Auto3DSeg/results/dataset.json
+modality: mri
+fold: 0
+input_channels: 1
+output_classes: 3
+class_names: [tumor, pancreas]
+class_index: null
+debug: false
+ckpt_save: true
+cache_rate: null
+roi_size: [192, 160, 104]
+auto_scale_allowed: true
+auto_scale_batch: true
+auto_scale_roi: false
+auto_scale_filters: false
+quick: false
+channels_last: true
+validate_final_original_res: true
+calc_val_loss: true
+amp: true
+log_output_file: null
+cache_class_indices: null
+early_stopping_fraction: 0.001
+determ: false
+orientation_ras: true
+crop_foreground: true
+learning_rate: 0.0002
+batch_size: 1
+num_images_per_batch: 1
+num_epochs: 1000
+num_warmup_epochs: 3
+sigmoid: false
+resample: false
+resample_resolution: [1.0, 1.0, 2.0000000005566174]
+crop_mode: rand
+normalize_mode: meanstd
+intensity_bounds: [36.37713515281677, 850.8470227050781]
+num_epochs_per_validation: null
+num_epochs_per_saving: 1
+num_workers: 4
+num_steps_per_image: null
+num_crops_per_image: 1
+loss: {_target_: DiceCELoss, include_background: true, squared_pred: true, smooth_nr: 0,
+  smooth_dr: 1.0e-05, softmax: $not @sigmoid, sigmoid: $@sigmoid, to_onehot_y: $not
+    @sigmoid}
+optimizer: {_target_: torch.optim.AdamW, lr: '@learning_rate', weight_decay: 1.0e-05}
+network:
+  _target_: SegResNetDS
+  init_filters: 32
+  blocks_down: [1, 2, 2, 4, 4]
+  norm: INSTANCE_NVFUSER
+  in_channels: '@input_channels'
+  out_channels: '@output_classes'
+  dsdepth: 4
+finetune: {enabled: false, ckpt_name: $@bundle_root + '/model/model.pt'}
+validate: {enabled: false, ckpt_name: $@bundle_root + '/model/model.pt', output_path: $@bundle_root
+    + '/prediction_validation', save_mask: false, invert: true}
+infer: {enabled: false, ckpt_name: $@bundle_root + '/model/model.pt', output_path: $@bundle_root
+    + '/prediction_' + @infer#data_list_key, data_list_key: testing}
+anisotropic_scales: true
+spacing_median: [1.0, 1.0, 2.0000000005566174]
+spacing_lower: [0.9191071364283535, 0.9191071364283535, 2.0000000005566174]
+spacing_upper: [1.0, 1.0, 2.000000000565647]
+image_size_mm_median: [207.0, 171.0, 214.00000005955806]
+image_size_mm_90: [207.0, 171.0, 214.00000005960516]
+image_size: [207, 171, 107]
+validate_interval: 5

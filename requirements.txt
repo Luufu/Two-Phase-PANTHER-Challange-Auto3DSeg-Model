@@ -1,0 +1,9 @@
+monai==1.5.0
+SimpleITK>=2.3.1
+numpy>=1.24
+nibabel>=5.2.0
+PyYAML>=6.0
+tqdm>=4.65
+tensorboard>=2.13,<3
+optree>=0.13.0
+itk>=5.3

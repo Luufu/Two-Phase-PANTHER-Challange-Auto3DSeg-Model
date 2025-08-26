@@ -1,0 +1,668 @@
+{
+    "training": [
+        {
+            "image": [
+                "imagesTr/10046_0001_0000.mha"
+            ],
+            "label": "labelsTr/10046_0001.mha",
+            "case_id": "10046_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10029_0001_0000.mha"
+            ],
+            "label": "labelsTr/10029_0001.mha",
+            "case_id": "10029_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10070_0001_0000.mha"
+            ],
+            "label": "labelsTr/10070_0001.mha",
+            "case_id": "10070_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10128_0001_0000.mha"
+            ],
+            "label": "labelsTr/10128_0001.mha",
+            "case_id": "10128_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10105_0001_0000.mha"
+            ],
+            "label": "labelsTr/10105_0001.mha",
+            "case_id": "10105_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10058_0001_0000.mha"
+            ],
+            "label": "labelsTr/10058_0001.mha",
+            "case_id": "10058_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10050_0001_0000.mha"
+            ],
+            "label": "labelsTr/10050_0001.mha",
+            "case_id": "10050_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10054_0001_0000.mha"
+            ],
+            "label": "labelsTr/10054_0001.mha",
+            "case_id": "10054_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10028_0001_0000.mha"
+            ],
+            "label": "labelsTr/10028_0001.mha",
+            "case_id": "10028_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10078_0001_0000.mha"
+            ],
+            "label": "labelsTr/10078_0001.mha",
+            "case_id": "10078_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10014_0001_0000.mha"
+            ],
+            "label": "labelsTr/10014_0001.mha",
+            "case_id": "10014_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10034_0001_0000.mha"
+            ],
+            "label": "labelsTr/10034_0001.mha",
+            "case_id": "10034_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10067_0001_0000.mha"
+            ],
+            "label": "labelsTr/10067_0001.mha",
+            "case_id": "10067_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10031_0001_0000.mha"
+            ],
+            "label": "labelsTr/10031_0001.mha",
+            "case_id": "10031_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10131_0001_0000.mha"
+            ],
+            "label": "labelsTr/10131_0001.mha",
+            "case_id": "10131_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10007_0001_0000.mha"
+            ],
+            "label": "labelsTr/10007_0001.mha",
+            "case_id": "10007_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10021_0001_0000.mha"
+            ],
+            "label": "labelsTr/10021_0001.mha",
+            "case_id": "10021_0001",
+            "fold": 0
+        },
+        {
+            "image": [
+                "imagesTr/10088_0001_0000.mha"
+            ],
+            "label": "labelsTr/10088_0001.mha",
+            "case_id": "10088_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10061_0001_0000.mha"
+            ],
+            "label": "labelsTr/10061_0001.mha",
+            "case_id": "10061_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10100_0001_0000.mha"
+            ],
+            "label": "labelsTr/10100_0001.mha",
+            "case_id": "10100_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10015_0001_0000.mha"
+            ],
+            "label": "labelsTr/10015_0001.mha",
+            "case_id": "10015_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10090_0001_0000.mha"
+            ],
+            "label": "labelsTr/10090_0001.mha",
+            "case_id": "10090_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10002_0001_0000.mha"
+            ],
+            "label": "labelsTr/10002_0001.mha",
+            "case_id": "10002_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10026_0001_0000.mha"
+            ],
+            "label": "labelsTr/10026_0001.mha",
+            "case_id": "10026_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10074_0001_0000.mha"
+            ],
+            "label": "labelsTr/10074_0001.mha",
+            "case_id": "10074_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10012_0001_0000.mha"
+            ],
+            "label": "labelsTr/10012_0001.mha",
+            "case_id": "10012_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10030_0001_0000.mha"
+            ],
+            "label": "labelsTr/10030_0001.mha",
+            "case_id": "10030_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10000_0001_0000.mha"
+            ],
+            "label": "labelsTr/10000_0001.mha",
+            "case_id": "10000_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10120_0001_0000.mha"
+            ],
+            "label": "labelsTr/10120_0001.mha",
+            "case_id": "10120_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10037_0001_0000.mha"
+            ],
+            "label": "labelsTr/10037_0001.mha",
+            "case_id": "10037_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10113_0001_0000.mha"
+            ],
+            "label": "labelsTr/10113_0001.mha",
+            "case_id": "10113_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10039_0001_0000.mha"
+            ],
+            "label": "labelsTr/10039_0001.mha",
+            "case_id": "10039_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10108_0001_0000.mha"
+            ],
+            "label": "labelsTr/10108_0001.mha",
+            "case_id": "10108_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10117_0001_0000.mha"
+            ],
+            "label": "labelsTr/10117_0001.mha",
+            "case_id": "10117_0001",
+            "fold": 1
+        },
+        {
+            "image": [
+                "imagesTr/10095_0001_0000.mha"
+            ],
+            "label": "labelsTr/10095_0001.mha",
+            "case_id": "10095_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10094_0001_0000.mha"
+            ],
+            "label": "labelsTr/10094_0001.mha",
+            "case_id": "10094_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10103_0001_0000.mha"
+            ],
+            "label": "labelsTr/10103_0001.mha",
+            "case_id": "10103_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10112_0001_0000.mha"
+            ],
+            "label": "labelsTr/10112_0001.mha",
+            "case_id": "10112_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10051_0001_0000.mha"
+            ],
+            "label": "labelsTr/10051_0001.mha",
+            "case_id": "10051_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10042_0001_0000.mha"
+            ],
+            "label": "labelsTr/10042_0001.mha",
+            "case_id": "10042_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10084_0001_0000.mha"
+            ],
+            "label": "labelsTr/10084_0001.mha",
+            "case_id": "10084_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10048_0001_0000.mha"
+            ],
+            "label": "labelsTr/10048_0001.mha",
+            "case_id": "10048_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10063_0001_0000.mha"
+            ],
+            "label": "labelsTr/10063_0001.mha",
+            "case_id": "10063_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10080_0001_0000.mha"
+            ],
+            "label": "labelsTr/10080_0001.mha",
+            "case_id": "10080_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10121_0001_0000.mha"
+            ],
+            "label": "labelsTr/10121_0001.mha",
+            "case_id": "10121_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10116_0001_0000.mha"
+            ],
+            "label": "labelsTr/10116_0001.mha",
+            "case_id": "10116_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10083_0001_0000.mha"
+            ],
+            "label": "labelsTr/10083_0001.mha",
+            "case_id": "10083_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10091_0001_0000.mha"
+            ],
+            "label": "labelsTr/10091_0001.mha",
+            "case_id": "10091_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10041_0001_0000.mha"
+            ],
+            "label": "labelsTr/10041_0001.mha",
+            "case_id": "10041_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10118_0001_0000.mha"
+            ],
+            "label": "labelsTr/10118_0001.mha",
+            "case_id": "10118_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10027_0001_0000.mha"
+            ],
+            "label": "labelsTr/10027_0001.mha",
+            "case_id": "10027_0001",
+            "fold": 2
+        },
+        {
+            "image": [
+                "imagesTr/10072_0001_0000.mha"
+            ],
+            "label": "labelsTr/10072_0001.mha",
+            "case_id": "10072_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10047_0001_0000.mha"
+            ],
+            "label": "labelsTr/10047_0001.mha",
+            "case_id": "10047_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10132_0001_0000.mha"
+            ],
+            "label": "labelsTr/10132_0001.mha",
+            "case_id": "10132_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10115_0001_0000.mha"
+            ],
+            "label": "labelsTr/10115_0001.mha",
+            "case_id": "10115_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10019_0001_0000.mha"
+            ],
+            "label": "labelsTr/10019_0001.mha",
+            "case_id": "10019_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10093_0001_0000.mha"
+            ],
+            "label": "labelsTr/10093_0001.mha",
+            "case_id": "10093_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10053_0001_0000.mha"
+            ],
+            "label": "labelsTr/10053_0001.mha",
+            "case_id": "10053_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10032_0001_0000.mha"
+            ],
+            "label": "labelsTr/10032_0001.mha",
+            "case_id": "10032_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10011_0001_0000.mha"
+            ],
+            "label": "labelsTr/10011_0001.mha",
+            "case_id": "10011_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10089_0001_0000.mha"
+            ],
+            "label": "labelsTr/10089_0001.mha",
+            "case_id": "10089_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10129_0001_0000.mha"
+            ],
+            "label": "labelsTr/10129_0001.mha",
+            "case_id": "10129_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10125_0001_0000.mha"
+            ],
+            "label": "labelsTr/10125_0001.mha",
+            "case_id": "10125_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10018_0001_0000.mha"
+            ],
+            "label": "labelsTr/10018_0001.mha",
+            "case_id": "10018_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10044_0001_0000.mha"
+            ],
+            "label": "labelsTr/10044_0001.mha",
+            "case_id": "10044_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10049_0001_0000.mha"
+            ],
+            "label": "labelsTr/10049_0001.mha",
+            "case_id": "10049_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10023_0001_0000.mha"
+            ],
+            "label": "labelsTr/10023_0001.mha",
+            "case_id": "10023_0001",
+            "fold": 3
+        },
+        {
+            "image": [
+                "imagesTr/10066_0001_0000.mha"
+            ],
+            "label": "labelsTr/10066_0001.mha",
+            "case_id": "10066_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10068_0001_0000.mha"
+            ],
+            "label": "labelsTr/10068_0001.mha",
+            "case_id": "10068_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10106_0001_0000.mha"
+            ],
+            "label": "labelsTr/10106_0001.mha",
+            "case_id": "10106_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10060_0001_0000.mha"
+            ],
+            "label": "labelsTr/10060_0001.mha",
+            "case_id": "10060_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10110_0001_0000.mha"
+            ],
+            "label": "labelsTr/10110_0001.mha",
+            "case_id": "10110_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10055_0001_0000.mha"
+            ],
+            "label": "labelsTr/10055_0001.mha",
+            "case_id": "10055_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10033_0001_0000.mha"
+            ],
+            "label": "labelsTr/10033_0001.mha",
+            "case_id": "10033_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10133_0001_0000.mha"
+            ],
+            "label": "labelsTr/10133_0001.mha",
+            "case_id": "10133_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10016_0001_0000.mha"
+            ],
+            "label": "labelsTr/10016_0001.mha",
+            "case_id": "10016_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10123_0001_0000.mha"
+            ],
+            "label": "labelsTr/10123_0001.mha",
+            "case_id": "10123_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10075_0001_0000.mha"
+            ],
+            "label": "labelsTr/10075_0001.mha",
+            "case_id": "10075_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10102_0001_0000.mha"
+            ],
+            "label": "labelsTr/10102_0001.mha",
+            "case_id": "10102_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10077_0001_0000.mha"
+            ],
+            "label": "labelsTr/10077_0001.mha",
+            "case_id": "10077_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10099_0001_0000.mha"
+            ],
+            "label": "labelsTr/10099_0001.mha",
+            "case_id": "10099_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10040_0001_0000.mha"
+            ],
+            "label": "labelsTr/10040_0001.mha",
+            "case_id": "10040_0001",
+            "fold": 4
+        },
+        {
+            "image": [
+                "imagesTr/10006_0001_0000.mha"
+            ],
+            "label": "labelsTr/10006_0001.mha",
+            "case_id": "10006_0001",
+            "fold": 4
+        }
+    ]
+}
